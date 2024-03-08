@@ -1,5 +1,5 @@
 
-# <img src="image-1.png" alt="Image 1" height="50" width="50"> <font size="40px">Chinenye Nmoh | Backend Software Engineer</font>
+# <img src="image-1.png" alt="Image 1" height="60" width="60"> <font size="90px">Chinenye Nmoh | Backend Software Engineer</font>
 
 
 <p>A passionate backend software engineer who loves building robust and scalable web applications. My primary focus is crafting clean, efficient, and maintainable code to deliver seamless user experiences.</p>
