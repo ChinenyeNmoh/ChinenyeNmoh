@@ -35,4 +35,6 @@ A passionate backend software engineer who loves building robust and scalable we
 - Docker
 - CI/CD pipelines
 
+### Contact
+-![alt text](image.png) chinenyeumeaku@gmail.com
 
