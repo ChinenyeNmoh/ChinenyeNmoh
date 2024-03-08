@@ -1,7 +1,5 @@
-<h1 font-size="30px">
-    <img src="image-1.png" alt="Image 1" height="40" width="40">
-    Chinenye Nmoh | Backend Software Engineer
-</h1>
+
+# <span style="font-size:30px;">Chinenye Nmoh | Backend Software Engineer</span> <img src="image-1.png" alt="Image 1" height="40" width="40">
 
 
 <p>A passionate backend software engineer who loves building robust and scalable web applications. My primary focus is crafting clean, efficient, and maintainable code to deliver seamless user experiences.</p>
