@@ -1,2 +1,3 @@
-![Homepage](C:\Users\User\Desktop\ChinenyeNmoh\readME_pic.png)
+<a href="#" target="_blank"><img align="center" src="readMe_pic.png" height="100" /></a>
+
 A passionate backend software engineer who loves building robust and scalable web applications. My primary focus is crafting clean, efficient, and maintainable code to deliver seamless user experiences.
