@@ -1,4 +1,4 @@
-<h1 font-size="24px">
+<h1 font-size="30px">
     <img src="image-1.png" alt="Image 1" height="40" width="40">
     Chinenye Nmoh | Backend Software Engineer
 </h1>
