@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center; margin-top: 0px; margin-bottom: 50px;">
-    <img src="image-1.png" alt="Image 1" height="50" width="50">
+    <img src="image-1.png" alt="Image 1" height="40" width="40">
     Chinenye Nmoh | Backend Software Engineer
 </h1>
 
