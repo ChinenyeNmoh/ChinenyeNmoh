@@ -1,5 +1,5 @@
 <h1 style="display: inline-block; margin-bottom: 15px;">
-    <img src="image-1.png" alt="Image 1" height="50" width="50" style="vertical-align: middle;">
+    <img src="image-1.png" alt="Image 1" height="50" width="50" style="vertical-align: text-bottom; margin-right: 5px;">
     Chinenye Nmoh | Backend Software Engineer
 </h1>
 
