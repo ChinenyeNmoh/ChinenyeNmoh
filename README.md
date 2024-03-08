@@ -36,5 +36,5 @@ A passionate backend software engineer who loves building robust and scalable we
 - CI/CD pipelines
 
 ### Contact
--![alt text](image.png) chinenyeumeaku@gmail.com
+-<img src="email.jpeg" alt="Image 2" height="15" width="15" style="margin-right: 5px;"> chinenyeumeaku@gmail.com
 
