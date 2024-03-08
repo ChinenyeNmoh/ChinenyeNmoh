@@ -1,4 +1,4 @@
-<h1 style="display: inline-block; margin-bottom: 0px; padding-bottom: 10px;">
+<h1 style="display: inline-block; margin-bottom: 0px; padding-bottom: 15px;">
     <img src="image-1.png" alt="Image 1" height="50" width="50" style="vertical-align: middle;">
     Chinenye Nmoh | Backend Software Engineer
 </h1>
