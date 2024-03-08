@@ -1,7 +1,8 @@
-<h1 style="display: inline-block; vertical-align: text-center;">
-    <img src="image-1.png" alt="Image 1" height="80" width="80" style="vertical-align: text-bottom; margin-right: 5px;">
+<h1 style="display: inline-block; vertical-align: top;">
+    <img src="image-1.png" alt="Image 1" height="80" width="80" style="margin-right: 5px;">
     Chinenye Nmoh | Backend Software Engineer
 </h1>
+
 
 <p>A passionate backend software engineer who loves building robust and scalable web applications. My primary focus is crafting clean, efficient, and maintainable code to deliver seamless user experiences.</p>
 
