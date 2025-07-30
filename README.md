@@ -17,11 +17,13 @@ A passionate backend software engineer who loves building robust and scalable we
 - Express.js (Node.js framework)
 - Flask (Python framework)
 - React
+- React native
 
 **Database:**
 
 - MySQL
 - MongoDB
+- postgres
 
 **frontend:**
 - HTML
@@ -30,6 +32,7 @@ A passionate backend software engineer who loves building robust and scalable we
 **Code integration:**
 
 - Git
+- Gitlab
 
 **DevOps & Web Development:**
 - Nginx
